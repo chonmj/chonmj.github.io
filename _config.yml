@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Michael Chon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Michael Chon"
+name                     : "Home"
 description              : "An amazing website."
 url                      : https://chonmj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,15 +106,15 @@ analytics:
 author:
   name             : "Michael Chon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Staff Engineer at Samsung's Advanced Materials Lab. Scientist. Bike Mechanic. Twin Dad. DIYer."
-  location         : "Cambridge, MA"
-  email            : "michael.j.chon@gmail.com"
+  bio              : "Engineer. Scientist. Bike Mechanic. Twin Dad. DIYer."
+  location         : "Medford, MA"
+  email            : "mchon@duck.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:michael.j.chon@gmail.com"
+      # url: "mailto:mchon@duck.com"
     - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
+      icon: "fab fa-fw fa-google-scholar"
       # url: "https://scholar.google.com/citations?user=M2bnHdsAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
