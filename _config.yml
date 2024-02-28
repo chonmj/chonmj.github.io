@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Chon"
+title                    : "Home"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Home"
+subtitle                 : "Build'em. Break'em. Fix'em." # site tagline that appears below site title in masthead
+name                     : "Michael Chon"
 description              : "An amazing website."
 url                      : https://chonmj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,15 +106,15 @@ analytics:
 author:
   name             : "Michael Chon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer. Scientist. Bike Mechanic. Twin Dad. DIYer."
+  bio              : ""
   location         : "Medford, MA"
-  email            : "mchon@duck.com"
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:mchon@duck.com"
+      url: "mailto:mchon@duck.com"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-google-scholar"
       url: "https://scholar.google.com/citations?user=M2bnHdsAAAAJ&hl=en"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
